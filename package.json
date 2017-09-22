@@ -1,9 +1,9 @@
 {
-  "name": "cordova-plugin-google-analytics",
+  "name": "igz-cordova-plugin-google-analytics",
   "version": "1.8.3",
   "description": "Google Universal Analytics Plugin",
   "cordova": {
-    "id": "cordova-plugin-google-analytics",
+    "id": "igz-cordova-plugin-google-analytics",
     "platforms": [
       "android",
       "ios",
@@ -13,9 +13,10 @@
   },
   "repository": {
     "type": "git",
-    "url": "https://github.com/danwilson/google-analytics-plugin.git"
+    "url": "https://github.com/IGZOscarArce/google-analytics-plugin"
   },
   "keywords": [
+    "Intelygenz",
     "cordova",
     "googleanalytics",
     "ecosystem:cordova",
@@ -26,6 +27,6 @@
     "universal",
     "universalanalytics"
   ],
-  "author": "Dan Wilson",
+  "author": "Dan Wilson, Oscar Arce (Intelygenz)",
   "license": "MIT"
 }
